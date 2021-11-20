@@ -1,8 +1,8 @@
 package me.iceprey.firstfabric;
 
+import net.fabricmc.api.ModInitializer;
 import me.iceprey.firstfabric.block.ModBlocks;
 import me.iceprey.firstfabric.item.ModItems;
-import net.fabricmc.api.ModInitializer;
 
 public class FirstFabric implements ModInitializer {
     public static final String MOD_ID = "firstfabric";

@@ -1,7 +1,5 @@
 {
   "variants": {
-    "": {
-      "modal": "firstfabric:block/block_shaq"
-    }
+    "": { "model": "firstfabric:block/block_shaq" }
   }
 }
